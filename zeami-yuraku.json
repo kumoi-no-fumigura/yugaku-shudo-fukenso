@@ -6,7 +6,12 @@
  "yomi": "ゆうがくしゅうどうふうけん",
  "category": "能・狂言",
  "kind": "noh",
- "description": null,
+ "description": {
+  "kind": "能楽論",
+  "era": "室町時代前期",
+  "author": "世阿弥",
+  "desc": "芸の習い方と見る人の風について説いた能楽論。"
+ },
  "editions": [
   {
    "pid": "859394",
